@@ -17,13 +17,19 @@
 - 🚀 Improving my programming and problem-solving skills.
 - 🌍 Based in Pakistan.
 
-### 🛠️ Skills & Technologies
+### 🛠️ Technical Skills
 
-- Python
-- Dart
-- Flutter
-- Git & GitHub
+**Programming Languages**
+- Python (Intermediate)
+- Dart (Intermediate)
+
+**Frameworks & Development**
+- Flutter (Intermediate)
 - Firebase
+
+**Tools**
+- Git & GitHub
+- VS Code
 
 ### 📂 My Projects
 
