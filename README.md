@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Zohaib Nawaz</h1>
 
-<!--
-**zohaibnawaz877-dev/zohaibnawaz877-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">BSCS Graduate | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about technology, programming and building practical software solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 BS Computer Science Graduate.
+- 💻 Interested in Software Development.
+- 🐍 Currently learning Python.
+- 📱 Interested in Flutter & Dart Development.
+- 🚀 Improving my programming and problem-solving skills.
+- 🌍 Based in Pakistan.
+
+### 🛠️ Skills & Technologies
+
+- Python
+- Dart
+- Flutter
+- Git & GitHub
+- Firebase
+
+### 📂 My Projects
+
+- Python Assignment – AI Bootcamp
+- More projects coming soon!
+
+### 📫 Connect With Me
+
+- GitHub: [@zohaibnawaz877-dev](https://github.com/zohaibnawaz877-dev)
+
+---
+
+<p align="center">
+  <b>Learning every day. Building step by step. 🚀</b>
+</p>
